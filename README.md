@@ -1,5 +1,4 @@
 
-````markdown
 # 🚀 Crypto ETL Pipeline with Docker + MySQL
 
 This project is a real-time **ETL pipeline** that fetches cryptocurrency market data from the [CoinGecko API](https://www.coingecko.com/en/api), transforms it using Python, and loads it into a MySQL database — all containerized using **Docker** and orchestrated via **Docker Compose**.
